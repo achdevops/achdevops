@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**achdevops/achdevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ale 👋
 
-Here are some ideas to get you started:
+I've been a passionate advocate for open source technologies and projects since 2002. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here you'll find:**
+
+* Some contributions to various open source projects.
+* Code snippets, scripts, and tools I've Testing or Develop.
+* Personal projects and explorations.
+
+**Let's connect!**
+
+Feel free to explore my repositories, open issues, or reach out directly. I'm always interested in collaborating and learning from others. 
