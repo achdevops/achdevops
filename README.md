@@ -7,7 +7,7 @@ I've been a passionate advocate for open source technologies and projects since 
 
 * Some contributions to various open source projects.
 * Code snippets, scripts, and tools I've Testing or Develop.
-* Personal projects and explorations.
+* educational/Personal projects and explorations.
 
 **Let's connect!**
 
