@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Alejandro (Ale) 
 
-**Estudiante y profesional de TI en Uruguay | Evangelista CNCF | Apasionado por el Open Source desde 2002**
+**Estudiante y profesional en TICS | Evangelista CNCF & STEAM | Apasionado por el Open Source desde 2002**
 
 ## 🚀 Sobre mí
 
